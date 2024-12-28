@@ -40,6 +40,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
  ![viewfinal](https://github.com/user-attachments/assets/2f9d3bd1-7b57-4923-bb12-b38ee00d2d2e)
  
  ![viewfinal](https://github.com/user-attachments/assets/ee956005-b5b4-48ee-9abe-099e43222fd0)
+
+ please check the demo with VPN :)
  
 - [Demo Project](https://amazon-tpkn.vercel.app/)
 
