@@ -1,4 +1,19 @@
 please check the demo with VPN :)
+ 
+- [Demo Project](https://amazon-tpkn.vercel.app/)
+
+ ![viewfinal](https://github.com/user-attachments/assets/2f9d3bd1-7b57-4923-bb12-b38ee00d2d2e)
+ 
+ ![viewfinal](https://github.com/user-attachments/assets/ee956005-b5b4-48ee-9abe-099e43222fd0)
+
+- Developed by fateme abdolmaleki
+
+- Created - 2024-12-27
+
+- Technologies Used - Html , Fully responsive with Tailwind , Next.js, TypeScript , Zustand
+
+- How to reach me : with my [instagram](https://www.instagram.com/fatemeabdolmaleki_) and [linkedin](https://www.linkedin.com/in/fateme-abdolmaleki/)
+  
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
@@ -37,18 +52,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
- ![viewfinal](https://github.com/user-attachments/assets/2f9d3bd1-7b57-4923-bb12-b38ee00d2d2e)
- 
- ![viewfinal](https://github.com/user-attachments/assets/ee956005-b5b4-48ee-9abe-099e43222fd0)
 
- please check the demo with VPN :)
- 
-- [Demo Project](https://amazon-tpkn.vercel.app/)
-
-- Developed by fateme abdolmaleki
-
-- Created - 2024-12-27
-
-- Technologies Used - Html , Fully responsive with Tailwind , Next.js, TypeScript , Zustand
-
-- How to reach me : with my [instagram](https://www.instagram.com/fatemeabdolmaleki_) and [linkedin](https://www.linkedin.com/in/fateme-abdolmaleki/)
